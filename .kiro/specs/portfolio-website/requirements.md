@@ -18,19 +18,19 @@ A personal portfolio website for John Doe that showcases professional informatio
 
 ### Requirement 1
 
-**User Story:** As a visitor, I want to view Lakindu's professional information and background, so that I can understand his experience and qualifications.
+**User Story:** As a visitor, I want to view John's professional information and background, so that I can understand his experience and qualifications.
 
 #### Acceptance Criteria
 
-1. WHEN a visitor loads the portfolio homepage, THE Portfolio_System SHALL display Lakindu's name, professional title, and brief introduction
+1. WHEN a visitor loads the portfolio homepage, THE Portfolio_System SHALL display John's name, professional title, and brief introduction
 2. WHEN a visitor navigates to the about section, THE Portfolio_System SHALL present detailed background information including education and experience
-3. WHEN the about content is displayed, THE Portfolio_System SHALL include a professional photo of Lakindu
+3. WHEN the about content is displayed, THE Portfolio_System SHALL include a professional photo of John
 4. WHEN personal information is shown, THE Portfolio_System SHALL maintain a professional tone and presentation
 5. WHEN the page loads, THE Portfolio_System SHALL display content within 3 seconds on standard internet connections
 
 ### Requirement 2
 
-**User Story:** As a visitor, I want to see Lakindu's technical skills and competencies, so that I can assess his capabilities for potential opportunities.
+**User Story:** As a visitor, I want to see John's technical skills and competencies, so that I can assess his capabilities for potential opportunities.
 
 #### Acceptance Criteria
 
@@ -42,7 +42,7 @@ A personal portfolio website for John Doe that showcases professional informatio
 
 ### Requirement 3
 
-**User Story:** As a visitor, I want to explore Lakindu's completed projects, so that I can evaluate the quality and scope of his work.
+**User Story:** As a visitor, I want to explore John's completed projects, so that I can evaluate the quality and scope of his work.
 
 #### Acceptance Criteria
 
@@ -54,7 +54,7 @@ A personal portfolio website for John Doe that showcases professional informatio
 
 ### Requirement 4
 
-**User Story:** As a visitor, I want to contact Lakindu directly through the portfolio, so that I can discuss opportunities or ask questions.
+**User Story:** As a visitor, I want to contact John directly through the portfolio, so that I can discuss opportunities or ask questions.
 
 #### Acceptance Criteria
 

@@ -59,7 +59,7 @@ const Footer: React.FC<FooterProps> = ({ socialLinks = [], email }) => {
               <a 
                 href={`mailto:${email}`}
                 className="text-blue-400 hover:text-blue-300 transition-colors duration-200"
-                aria-label="Send email to Lakindu"
+                aria-label="Send email to John"
               >
                 {email}
               </a>

@@ -13,7 +13,7 @@
     - Set up type definitions for form validation and component props
     - _Requirements: 1.1, 2.1, 3.1, 4.1_
 
-  - [x] 2.2 Create static data files with Lakindu's information
+  - [x] 2.2 Create static data files with John's information
     - Create personal-info.json with name, title, introduction, and about content
     - Create skills.json with categorized technical skills and proficiency levels
     - Create projects.json with sample projects including metadata and links
@@ -48,7 +48,7 @@
 
 - [x] 4. Build Hero and About sections
   - [x] 4.1 Implement Hero component
-    - Display Lakindu's name, professional title, and brief introduction
+    - Display John's name, professional title, and brief introduction
     - Create visually appealing hero section with Tailwind CSS styling
     - Ensure content loads within performance requirements
     - _Requirements: 1.1, 1.5_

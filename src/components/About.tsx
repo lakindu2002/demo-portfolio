@@ -75,7 +75,7 @@ const About: React.FC<AboutComponentProps> = ({ personalInfo }) => {
                     }}
                     variant="secondary"
                     size="md"
-                    ariaLabel="Contact Lakindu"
+                    ariaLabel="Contact John"
                     icon={
                       <svg 
                         className="w-3 h-3 sm:w-4 sm:h-4" 

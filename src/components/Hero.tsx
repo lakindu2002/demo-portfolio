@@ -53,7 +53,7 @@ const Hero: React.FC<HeroComponentProps> = ({ personalInfo }) => {
               variant="primary"
               size="lg"
               className="w-full xs:w-auto"
-              ariaLabel="Learn more about Lakindu - navigate to about section"
+              ariaLabel="Learn more about John - navigate to about section"
             >
               Learn More
             </InteractiveButton>
@@ -63,7 +63,7 @@ const Hero: React.FC<HeroComponentProps> = ({ personalInfo }) => {
               variant="outline"
               size="lg"
               className="w-full xs:w-auto"
-              ariaLabel="Get in touch with Lakindu - navigate to contact section"
+              ariaLabel="Get in touch with John - navigate to contact section"
             >
               Get In Touch
             </InteractiveButton>
