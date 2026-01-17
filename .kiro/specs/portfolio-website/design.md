@@ -2,7 +2,7 @@
 
 ## Overview
 
-The portfolio website for Lakindu Hewawasam will be a modern, responsive single-page application (SPA) built with React and TypeScript. The design emphasizes clean aesthetics, smooth user experience, and professional presentation. The website will feature a hero section, about section, skills showcase, project gallery, and contact form, all connected through smooth scrolling navigation.
+The portfolio website for John Doe will be a modern, responsive single-page application (SPA) built with React and TypeScript. The design emphasizes clean aesthetics, smooth user experience, and professional presentation. The website will feature a hero section, about section, skills showcase, project gallery, and contact form, all connected through smooth scrolling navigation.
 
 ## Architecture
 

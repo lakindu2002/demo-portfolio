@@ -2,11 +2,11 @@
 
 ## Introduction
 
-A personal portfolio website for Lakindu Hewawasam that showcases professional information, skills, projects, and contact details in a clean, modern interface. The portfolio will serve as a digital presence for career opportunities and professional networking.
+A personal portfolio website for John Doe that showcases professional information, skills, projects, and contact details in a clean, modern interface. The portfolio will serve as a digital presence for career opportunities and professional networking.
 
 ## Glossary
 
-- **Portfolio_System**: The complete web application that displays Lakindu Hewawasam's professional information
+- **Portfolio_System**: The complete web application that displays John Doe's professional information
 - **Visitor**: Any person who accesses the portfolio website
 - **Contact_Form**: Interactive form allowing visitors to send messages
 - **Project_Gallery**: Section displaying completed projects with descriptions and links
