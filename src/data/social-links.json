@@ -1,0 +1,22 @@
+[
+  {
+    "platform": "GitHub",
+    "url": "https://github.com",
+    "icon": "github"
+  },
+  {
+    "platform": "LinkedIn",
+    "url": "https://linkedin.com/in",
+    "icon": "linkedin"
+  },
+  {
+    "platform": "Twitter",
+    "url": "https://twitter.com",
+    "icon": "twitter"
+  },
+  {
+    "platform": "Email",
+    "url": "mailto:john@example.com",
+    "icon": "email"
+  }
+]

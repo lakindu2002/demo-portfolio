@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce Platform",
+    "description": "A full-stack e-commerce solution with React frontend and Node.js backend",
+    "detailedDescription": "Built a comprehensive e-commerce platform featuring user authentication, product catalog, shopping cart, payment integration, and admin dashboard. Implemented responsive design and optimized for performance.",
+    "technologies": ["React", "Node.js", "Express", "MongoDB", "Stripe API", "Tailwind CSS"],
+    "duration": "3 months",
+    "previewImage": "/images/ecommerce-preview.jpg",
+    "liveUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Task Management App",
+    "description": "A collaborative task management application with real-time updates",
+    "detailedDescription": "Developed a team collaboration tool with features like task assignment, progress tracking, real-time notifications, and team chat. Used WebSocket for real-time communication.",
+    "technologies": ["React", "TypeScript", "Socket.io", "Node.js", "PostgreSQL"],
+    "duration": "2 months",
+    "previewImage": "/images/taskapp-preview.jpg",
+    "liveUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Weather Dashboard",
+    "description": "A responsive weather application with location-based forecasts",
+    "detailedDescription": "Created a weather dashboard that provides current weather conditions and 7-day forecasts. Features location detection, search functionality, and beautiful weather visualizations.",
+    "technologies": ["React", "JavaScript", "OpenWeather API", "Chart.js", "CSS3"],
+    "duration": "1 month",
+    "previewImage": "/images/weather-preview.jpg",
+    "liveUrl": "https://github.com",
+    "githubUrl": "https://github.com",
+    "featured": false
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "name": "React",
+    "category": "Frontend",
+    "proficiency": "Expert",
+    "yearsOfExperience": 4
+  },
+  {
+    "name": "TypeScript",
+    "category": "Frontend",
+    "proficiency": "Advanced",
+    "yearsOfExperience": 3
+  },
+  {
+    "name": "JavaScript",
+    "category": "Frontend",
+    "proficiency": "Expert",
+    "yearsOfExperience": 5
+  },
+  {
+    "name": "Tailwind CSS",
+    "category": "Frontend",
+    "proficiency": "Advanced",
+    "yearsOfExperience": 2
+  },
+  {
+    "name": "Node.js",
+    "category": "Backend",
+    "proficiency": "Advanced",
+    "yearsOfExperience": 3
+  },
+  {
+    "name": "Express.js",
+    "category": "Backend",
+    "proficiency": "Advanced",
+    "yearsOfExperience": 3
+  },
+  {
+    "name": "MongoDB",
+    "category": "Database",
+    "proficiency": "Intermediate",
+    "yearsOfExperience": 2
+  },
+  {
+    "name": "PostgreSQL",
+    "category": "Database",
+    "proficiency": "Intermediate",
+    "yearsOfExperience": 2
+  },
+  {
+    "name": "Git",
+    "category": "Tools",
+    "proficiency": "Advanced",
+    "yearsOfExperience": 4
+  },
+  {
+    "name": "Docker",
+    "category": "Tools",
+    "proficiency": "Intermediate",
+    "yearsOfExperience": 1
+  },
+  {
+    "name": "AWS",
+    "category": "Cloud",
+    "proficiency": "Intermediate",
+    "yearsOfExperience": 2
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "John Doe",
+  "title": "Full Stack Developer",
+  "introduction": "Passionate developer creating innovative web solutions with modern technologies",
+  "about": "I am a dedicated full stack developer with expertise in modern web technologies. I enjoy building scalable applications and solving complex problems through clean, efficient code. My experience spans across frontend frameworks, backend systems, and cloud technologies.",
+  "photo": "/images/profile.svg",
+  "email": "john@example.com",
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com",
+      "icon": "twitter"
+    }
+  ]
+}
